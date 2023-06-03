@@ -123,6 +123,9 @@
 <script>
   $('.buathasil').on('click', function() {
     window.location.href = '<?= base_url('admin/buathasil') ?>';
+    $.ajax({
+      url: '<?= base_url("admin/buathasil"); ?>'
+    })
   })
 </script>
 </body>

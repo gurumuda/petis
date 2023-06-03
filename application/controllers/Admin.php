@@ -389,7 +389,7 @@ class Admin extends CI_Controller
 
             redirect('admin', 'refresh');
         }
-
+        sleep(3);
         $this->load->view('admin/meta', $data);
         $this->load->view('admin/header');
         $this->load->view('admin/sidebar');
