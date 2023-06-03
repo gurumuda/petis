@@ -5,9 +5,9 @@ https://www.youtube.com/channel/UCGHEa18bAd6jmmamIV4EmWQ
 
 telegram : https://t.me/yuwandianto
 
-=======
+
 aplikasi dibagikan gratis tidak untuk diperjual belikan
-=======
+
 
 # testing servel local
 
